@@ -1,14 +1,16 @@
-## Welcome!
+# Welcome!
   
 ![Jonas Schiott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasSchiott&show_icons=true&theme=radical)
 
-## Languages
+<h1>Languages</h1>
 
-<h1>Mastered: </h1>
-<code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
-<code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
-<code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
+<h2>Mastered: </h2>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/java.png"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/kotlin.png"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/javascript.svg"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/nodejs.svg"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/python.png"></code>
 
-<h1>Learning:</h1>
-<code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
-<code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
+<h2>Learning:</h2>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/cpp.svg"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/typescript.svg"></code>
