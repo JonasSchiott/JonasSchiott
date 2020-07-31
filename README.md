@@ -12,7 +12,7 @@
 
 <h2>Knows:</h2>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/python.png"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/typescript.svg"></code>
 
 <h2>Learning:</h2>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/cpp.svg"></code>
-<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/typescript.svg"></code>
