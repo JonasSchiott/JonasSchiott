@@ -9,6 +9,8 @@
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/kotlin.png"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/javascript.svg"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/nodejs.svg"></code>
+
+<h2>Knows:</h2>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/python.png"></code>
 
 <h2>Learning:</h2>
