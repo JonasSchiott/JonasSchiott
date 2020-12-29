@@ -12,3 +12,4 @@
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/kotlin.png"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/cpp.svg"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/python.png"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/scala.png"></code>
