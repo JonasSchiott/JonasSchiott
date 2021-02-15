@@ -1,10 +1,17 @@
 # Welcome!
-  
-![Jonas Schiott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasSchiott&show_icons=true&theme=dark)
+Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science student from Denmark.
+My occupation is being a student, though I do also manage @MenuDocs.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasschiott&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Hobbies
+  - Studying linguistics, religion & culture
+  - Programming
+  - Cooking
+- MenuDocs
+  - [YouTube](https://youtube.com/menudocs)
+  - [GitHub](https://github.com/menudocs)
+  - [Discord](https://discord.gg/menudocs)
 
-<h2>I once console logged in: </h2>
+<h2>My languages </h2>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/typescript.svg"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/javascript.svg"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/nodejs.svg"></code>
