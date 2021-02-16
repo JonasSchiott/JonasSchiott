@@ -1,6 +1,6 @@
 # Welcome!
 Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science student from Denmark.
-My occupation is being a student, though I do also manage @MenuDocs.
+My occupation is being a student, though I do also manage [MenuDocs](https://github.com/MenuDocs).
 
 - Hobbies
   - Studying linguistics, religion & culture
@@ -8,6 +8,7 @@ My occupation is being a student, though I do also manage @MenuDocs.
   - Cooking
 - MenuDocs
   - [YouTube](https://youtube.com/menudocs)
+  - [Website](https://menudocs.org/)
   - [GitHub](https://github.com/menudocs)
   - [Discord](https://discord.gg/menudocs)
 
