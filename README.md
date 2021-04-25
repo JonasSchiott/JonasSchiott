@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=JonasSchiott&color=blueviolet" alt="JonasSchiott" />
+
 # Welcome!
 Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science student from Denmark.
 In my free time I manage [MenuDocs](https://github.com/MenuDocs) though ;)
