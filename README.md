@@ -2,7 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=JonasSchiott&color=blueviolet" alt="JonasSchiott" />
 
 ## About Me:
-<hr>
 
 Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science student from Denmark.
 
@@ -14,8 +13,7 @@ Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science stude
   - Programming
   - Cooking
   - 
-<p font="20px">Projects</p>
-<hr>
+## Projects
 
 <h2>My languages </h2>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/typescript.svg"></code>
