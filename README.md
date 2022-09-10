@@ -2,17 +2,13 @@
 <img src="https://komarev.com/ghpvc/?username=JonasSchiott&color=blueviolet" alt="JonasSchiott" />
 
 Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science student from Denmark.
+
 Contributor at [Disboard](https://github.com/disboardorg)
 
 - Hobbies
   - Studying linguistics, religion & culture
   - Programming
   - Cooking
-- MenuDocs
-  - [YouTube](https://youtube.com/menudocs)
-  - [Website](https://menudocs.org/)
-  - [GitHub](https://github.com/menudocs)
-  - [Discord](https://discord.gg/menudocs)
 
 <h2>My languages </h2>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/typescript.svg"></code>
