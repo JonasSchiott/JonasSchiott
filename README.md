@@ -9,15 +9,12 @@ Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science stude
 - Contributor at [Disboard](https://github.com/disboardorg)
 - Moderator of [Judaism Discord](https://discord.gg/Judaism)
 
-<figure>
-    <blockquote>
  - Hobbies
   - Studying linguistics, religion & culture
   - Programming
   - Cooking
-    </blockquote>
-</figure>
-## Projects
+  - 
+<p>Projects</p>
 <hr>
 
 <h2>My languages </h2>
