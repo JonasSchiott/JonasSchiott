@@ -14,7 +14,7 @@ Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science stude
   - Programming
   - Cooking
   - 
-<p font-size="20px">Projects</p>
+<p font="20px">Projects</p>
 <hr>
 
 <h2>My languages </h2>
