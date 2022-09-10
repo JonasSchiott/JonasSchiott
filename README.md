@@ -12,7 +12,7 @@ Hi everyone! My name is **Jonas "R1zeN" Schiott**, I am a computer science stude
   - Studying linguistics, religion & culture
   - Programming
   - Cooking
-  - 
+  
 ## Projects
 
 <h2>My languages </h2>
