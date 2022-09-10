@@ -13,9 +13,8 @@ Moderator of [Judaism Discord](https://discord.gg/Judaism)</i>
   - Programming
   - Cooking
   
-## Projects
 
-<h2>My languages </h2>
+## My languages
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/typescript.svg"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/javascript.svg"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/nodejs.svg"></code>
