@@ -24,3 +24,9 @@ Hi everyone! My name is **Jonas "R1zeN" Schiott**. I am a computer science stude
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/cpp.svg"></code>
 <code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/python.png"></code>
 <code><img width="50px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/scala.png"></code>
+
+## Favourite Quotes
+<blockquote>
+“When you waste a moment, you have killed it in a sense, squandering an irreplaceable opportunity. But when you use the moment properly, filling it with purpose and productivity, it lives on forever.”
+</blockquote>
+~ R' Menachem Mendel Schneersohn זי"ע
