@@ -1,7 +1,6 @@
-# Welcome!
 <img src="https://komarev.com/ghpvc/?username=JonasSchiott&color=blueviolet" alt="JonasSchiott" />
 
-## About Me:
+## About Me
 
 Hi everyone! My name is **Jonas "R1zeN" Schiott**. I am a computer science student from Denmark.
 
