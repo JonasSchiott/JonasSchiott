@@ -5,9 +5,8 @@
 Hi everyone! My name is **Jonas "R1zeN" Schiott**. I am a computer science student from Denmark.
 
 <i>**Contributor** @ [Disboard](https://github.com/disboardorg)<br />
-**Manager** @ [MenuDocs](https://github.com/MenuDocs)<br />
-**Head Moderator** @ [Judaism Discord](https://discord.gg/Judaism)</i>
-
+**Manager** @ [MenuDocs](https://github.com/MenuDocs)<br /> </i>
+  
   - Hobbies
   - Studying linguistics, religion & culture
   - Programming
