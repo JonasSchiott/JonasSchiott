@@ -7,7 +7,7 @@ Hi everyone! My name is **Jonas "R1zeN" Schiott**. I am a former computer scienc
 <i>**Contributor** @ [Disboard](https://github.com/disboardorg)<br />
 **Former Manager** @ [MenuDocs](https://github.com/MenuDocs)<br /> </i>
   
-  - Hobbies
+  My Hobbies:
   - Studying linguistics, religion & culture
   - Programming
   - Cooking
