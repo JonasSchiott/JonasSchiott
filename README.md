@@ -2,10 +2,10 @@
 
 ## About Me
 
-Hi everyone! My name is **Jonas "R1zeN" Schiott**. I am a computer science student from Denmark.
+Hi everyone! My name is **Jonas "R1zeN" Schiott**. I am a former computer science student — now working with automisations and data analytics! I'm from Denmark.
 
 <i>**Contributor** @ [Disboard](https://github.com/disboardorg)<br />
-**Manager** @ [MenuDocs](https://github.com/MenuDocs)<br /> </i>
+**Former Manager** @ [MenuDocs](https://github.com/MenuDocs)<br /> </i>
   
   - Hobbies
   - Studying linguistics, religion & culture
